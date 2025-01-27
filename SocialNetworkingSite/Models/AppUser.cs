@@ -1,6 +1,6 @@
 ﻿namespace SocialNetworkingSite.Models
 {
-    public class Model1
+    public class AppUser
     {
     }
 }

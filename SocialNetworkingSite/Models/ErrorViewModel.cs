@@ -1,6 +1,6 @@
 namespace SocialNetworkingSite.Models
 {
-    public class ErrorViewModel
+    public class ErrorViewModel //Error View Model
     {
         public string? RequestId { get; set; }
 

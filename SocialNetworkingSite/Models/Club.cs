@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace SocialNetworkingSite.Models
 {
-    public class Club
+    public class Club // Club
     {
         [Key]
         public int Id { get; set; }

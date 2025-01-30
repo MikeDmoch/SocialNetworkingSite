@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using SocialNetworkingSite.Data.Enum;
 
 namespace SocialNetworkingSite.Models
 {

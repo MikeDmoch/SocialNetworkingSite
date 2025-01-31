@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SocialNetworkingSite.Models
 {
-    public class AppUser : IdentityUser
+    public class AppUser : IdentityUser // User
     {
         [Key]
         public string Id {  get; set; }

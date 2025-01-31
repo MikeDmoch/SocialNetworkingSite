@@ -3,7 +3,7 @@ using SocialNetworkingSite.Models;
 
 namespace SocialNetworkingSite.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : DbContext // Db
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
